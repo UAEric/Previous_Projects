@@ -1,11 +1,6 @@
 '''
-Author: Eric Abrams
-Date: 12/7/2021
-Class: ISTA 130
-Section Leader: Nick Tang
-
 Description:
-This goal of this program create a class that will simulate a rpg game.
+The goal of this program create a class that will simulate an RPG game.
 '''
 import random
 
