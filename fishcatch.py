@@ -1,11 +1,9 @@
 '''
 Author: Eric Abrams
-Date: 11/27/2021
-Class: ISTA 130
-Section Leader: Nick Tang
+
 
 Description:
-This goal of this program is to print a table that contains the number of a fish of a certain type caught, the name
+The goal of this program is to print a table that contains the number of a fish of a certain type caught, the name
 of the types of fish, and the mean weight for a type of fish in grams.
 '''
 
