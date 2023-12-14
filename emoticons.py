@@ -1,11 +1,8 @@
 '''
 Author: Eric Abrams
-Date: 11/27/2021
-Class: ISTA 130
-Section Leader: Nick Tang
 
 Description:
-This goal of this program is to identify the most commonly used emoticon from a file (files gets data from tweets), 
+The goal of this program is to identify the most commonly used emoticon from a file (files get data from tweets), 
 get rid of it, then find the next most commonly used one, get rid of it, and so on.
 '''
 
