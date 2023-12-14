@@ -1,8 +1,5 @@
 '''
 Author: Eric Abrams
-Date: 11/18/2021
-Class: ISTA 130
-Section Leader: Nick Tang
 
 Description:
 This program will ask a user for a mammal name, check if the name is in a predetermined list, and give the brain and body
